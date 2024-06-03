@@ -1,7 +1,7 @@
 # QGIS_Feature_Viewer_Plugin
 This QGIS plugin allows the user to upload files, validate them, and find the distance between features given index numbers. This repository will be updated as time passes.
 
-In order to install this plugin, you will want to download all files, try not to change file order as it may confuse QGIS. Once all files are downloaded, navigate to:
+In order to install this plugin, you will want to download all files in the master branch, try not to change file order as it may confuse QGIS. Once all files are downloaded, navigate to:
 
 C:\Users\<your_user_file>\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins
 
